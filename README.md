@@ -1,5 +1,4 @@
-# JSFun_FinalProject
-# Book Searcher
+# Book Search
 
  ## What is this project?
  This project is a fairly basic book searching page using the Google Books API. It allows user to search for any given book, see the results, and read more information about the book. 
